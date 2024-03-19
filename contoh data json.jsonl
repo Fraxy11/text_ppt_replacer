@@ -1,0 +1,585 @@
+    {
+      "id": "77f7cda688b145df194c8296f54c9035",
+      "result": {
+        "earliest_date": "2022-04-01",
+        "latest_date": "2022-04-07",
+        "total_online_news": 2169,
+        "total_online_media": 778,
+        "total_printed_news": 192,
+        "total_printed_media": 78,
+        "top_10_online_media": {
+          "Kompas": 79,
+          "Kontan": 39,
+          "Detik": 37,
+          "Liputan 6": 35,
+          "Tribun News Bali": 32,
+          "Bisnis Indonesia": 31,
+          "Suara.com": 26,
+          "Antara": 25,
+          "Republika": 24,
+          "Warta Ekonomi": 23
+        },
+        "top_10_printed_media": {
+          "Investor Daily": 13,
+          "Kedaulatan Rakyat": 8,
+          "Kompas": 7,
+          "Neraca": 7,
+          "Bandung Ekspres": 6,
+          "Bisnis Bali": 5,
+          "Koran Kontan": 5,
+          "Koran Sindo": 5,
+          "Media Indonesia": 5,
+          "Bisnis Indonesia": 5
+        },
+        "all_days_detail": [
+          {
+            "text": "Program CSR untuk Anak-Anak Berpenampilan Kurang di Jawa Barat.",
+            "total": 401,
+            "percentage": 0.17
+          },
+          {
+            "text": "Produk Perbankan Terbaru PermataBank dan AirAsia Cards.",
+            "total": 361,
+            "percentage": 0.15
+          },
+          {
+            "text": "Peluncuran e-retribusi di pasar tradisional dan rencana penerapan sistem parkir elektronik untuk meningkatkan PAD.",
+            "total": 352,
+            "percentage": 0.15
+          },
+          {
+            "text": "Kolaborasi antara perusahaan telekomunikasi dan bank dalam mendukung industri kreatif.",
+            "total": 288,
+            "percentage": 0.12
+          },
+          {
+            "text": "Metode Pembayaran Digital",
+            "total": 206,
+            "percentage": 0.09
+          },
+          {
+            "text": "Penyediaan Uang Tunai oleh Bank Indonesia pada Bulan Ramadhan dan Idul Fitri.",
+            "total": 200,
+            "percentage": 0.08
+          },
+          {
+            "text": "Mendukung Sektor UMKM Melalui Penyaluran KUR Digital oleh Berbagai Bank.",
+            "total": 167,
+            "percentage": 0.07
+          },
+          {
+            "text": "Hilirisasi Pertanian dan Inovasi Industri Kreatif Berbasis Digital di Indonesia.",
+            "total": 155,
+            "percentage": 0.07
+          },
+          {
+            "text": "Implementasi Peraturan Perpajakan di Indonesia.",
+            "total": 165,
+            "percentage": 0.07
+          },
+          {
+            "text": "Kolaborasi Bank BJB dengan Berbagai Instansi dalam Memperkuat Ekonomi Berbasis Keumatn",
+            "total": 66,
+            "percentage": 0.03
+          }
+        ],
+        "per_day_detail": {
+          "2022-04-01": {
+            "online": 343,
+            "printed": 20,
+            "topics": [
+              {
+                "text": "Program Unggulan Brittamval Fahme Amber oleh PT Bank BRI (Persero) Tbk dan PT Bank BRI Syariah Tbk.",
+                "total": 78,
+                "percentage": 0.21
+              },
+              {
+                "text": "Layanan Berbasis Digital dalam Transformasi Ekosistem Digital Indonesia.",
+                "total": 73,
+                "percentage": 0.2
+              },
+              {
+                "text": "Gangguan Layanan M-Banking BCA.",
+                "total": 50,
+                "percentage": 0.14
+              },
+              {
+                "text": "Fitur Digital dalam Bulan Ramadhan.",
+                "total": 44,
+                "percentage": 0.12
+              },
+              {
+                "text": "Biaya transfer dan produk perbankan.",
+                "total": 34,
+                "percentage": 0.09
+              },
+              {
+                "text": "Produk pangan Indonesia diperingkat sebagai yang tertinggi kedua secara global.",
+                "total": 28,
+                "percentage": 0.08
+              },
+              {
+                "text": "Promosi Produk di Indomaret.",
+                "total": 24,
+                "percentage": 0.07
+              },
+              {
+                "text": "Investasi Digital dan Upaya Pemasaran Bibit di Antara Generasi Milenial Di Seluruh Indonesia.",
+                "total": 18,
+                "percentage": 0.05
+              },
+              {
+                "text": "Teknologi dan Inovasi di Sektor Keuangan",
+                "total": 9,
+                "percentage": 0.02
+              },
+              {
+                "text": "Launching New Honda Genio di Pekanbaru",
+                "total": 5,
+                "percentage": 0.01
+              }
+            ]
+          },
+          "2022-04-02": {
+            "online": 161,
+            "printed": 7,
+            "topics": [
+              {
+                "text": "Pembayaran Melalui Quick Respon Kode Standar Indonesia (QRIS)",
+                "total": 34,
+                "percentage": 0.2
+              },
+              {
+                "text": "Program promosi oleh bank-bank di Indonesia.",
+                "total": 29,
+                "percentage": 0.17
+              },
+              {
+                "text": "Pentingnya Keamanan Data dalam Teknologi.",
+                "total": 26,
+                "percentage": 0.15
+              },
+              {
+                "text": "Acara Penjualan Besar Selama Bulan Ramadhan",
+                "total": 18,
+                "percentage": 0.11
+              },
+              {
+                "text": "Kolaborasi antara Apex Legends Mobile dan Streamer/YouTuber game di Indonesia.",
+                "total": 17,
+                "percentage": 0.1
+              },
+              {
+                "text": "Promosi Penawaran Ramadhan oleh Indomaret.",
+                "total": 14,
+                "percentage": 0.08
+              },
+              {
+                "text": "Investasi Reksa Dana dan SBN Populer di Kalangan Generasi Milenial di Indonesia",
+                "total": 11,
+                "percentage": 0.07
+              },
+              {
+                "text": "Generasi Produk dan Layanan Bank Indonesia",
+                "total": 6,
+                "percentage": 0.04
+              },
+              {
+                "text": "Produk Makanan Halal di Indonesia.",
+                "total": 6,
+                "percentage": 0.04
+              },
+              {
+                "text": "Integrasi Produk Dalam Negeri dalam Rantai Pasokan Pemerintah.",
+                "total": 7,
+                "percentage": 0.04
+              }
+            ]
+          },
+          "2022-04-03": {
+            "online": 161,
+            "printed": 21,
+            "topics": [
+              {
+                "text": "Produk Digital dan Tradisi Selama Bulan Ramadhan.",
+                "total": 33,
+                "percentage": 0.18
+              },
+              {
+                "text": "Pemanfaatan teknologi digital dalam ekonomi lokal.",
+                "total": 27,
+                "percentage": 0.15
+              },
+              {
+                "text": "Kolaborasi dan Kemitraan dalam Industri Bank Digital di Indonesia.",
+                "total": 26,
+                "percentage": 0.14
+              },
+              {
+                "text": "Ekspansi Aksesibilitas Teknologi Keuangan di Indonesia.",
+                "total": 24,
+                "percentage": 0.13
+              },
+              {
+                "text": "E-Wallet dan Transformasi Digital di Indonesia",
+                "total": 20,
+                "percentage": 0.11
+              },
+              {
+                "text": "Promosi Produk Domestik dan Mendukung Usaha Kecil dan Menengah di Indonesia.",
+                "total": 17,
+                "percentage": 0.09
+              },
+              {
+                "text": "Dampak Kekejaman Terhadap Korban Wanita.",
+                "total": 13,
+                "percentage": 0.07
+              },
+              {
+                "text": "Investasi Reksa Dana dan Surat Berharga Negara (SBN) untuk Pemula.",
+                "total": 11,
+                "percentage": 0.06
+              },
+              {
+                "text": "Fashion Ramah Lingkungan Lebih Terjangkau.",
+                "total": 8,
+                "percentage": 0.04
+              },
+              {
+                "text": "Seorang tokoh yang ahli di bidang teknologi informasi, Rionald Anggara Soerjanto, datang ke Gedung Bareskrim Polri sebagai saksi ahli dalam kasus fintech yang sedang marak.",
+                "total": 3,
+                "percentage": 0.02
+              }
+            ]
+          },
+          "2022-04-04": {
+            "online": 282,
+            "printed": 40,
+            "topics": [
+              {
+                "text": "Digitalisasi pembayaran nontunai di Indonesia.",
+                "total": 64,
+                "percentage": 0.2
+              },
+              {
+                "text": "Penyediaan Uang Tunai oleh Bank Indonesia untuk Bulan Suci Ramadhan dan Idulfitri.",
+                "total": 47,
+                "percentage": 0.15
+              },
+              {
+                "text": "Digitalisasi Sektor Keuangan di Indonesia.",
+                "total": 44,
+                "percentage": 0.14
+              },
+              {
+                "text": "Tips Menabung dalam Bahasa Indonesia",
+                "total": 35,
+                "percentage": 0.11
+              },
+              {
+                "text": "Promosi spesial hotel di Bandung.",
+                "total": 35,
+                "percentage": 0.11
+              },
+              {
+                "text": "Kolaborasi antara PT Bank Central Asia Tbk (BCA) dan PT Panca Budi Niaga (PBN) untuk menyalurkan KUR di berbagai sektor usaha.",
+                "total": 33,
+                "percentage": 0.1
+              },
+              {
+                "text": "Usaha Mikro Kecil dan Menengah serta Koperasi di Pasar Domestik.",
+                "total": 24,
+                "percentage": 0.07
+              },
+              {
+                "text": "Kampanye #NabungKebaikan oleh PermataBank.",
+                "total": 18,
+                "percentage": 0.06
+              },
+              {
+                "text": "Persiapan Uang Tunai oleh Bank Indonesia Jambi untuk Ramadhan dan Idul Fitri.",
+                "total": 14,
+                "percentage": 0.04
+              },
+              {
+                "text": "Promosi dan Penjualan Online selama Bulan Puasa.",
+                "total": 8,
+                "percentage": 0.02
+              }
+            ]
+          },
+          "2022-04-05": {
+            "online": 340,
+            "printed": 36,
+            "topics": [
+              {
+                "text": "Sistem Pembayaran Non Tunai di Kabupaten Bangka Barat.",
+                "total": 78,
+                "percentage": 0.21
+              },
+              {
+                "text": "Promosi Zakat dan Dukungan Asnaf dalam Kampanye Ramadhan oleh PPZ-MAIWP.",
+                "total": 54,
+                "percentage": 0.14
+              },
+              {
+                "text": "Digitalisasi dan E-Commerce dalam Perekonomian Indonesia.",
+                "total": 44,
+                "percentage": 0.12
+              },
+              {
+                "text": "Pajak Penghasilan Atas Bunga Pinjaman di Indonesia.",
+                "total": 37,
+                "percentage": 0.1
+              },
+              {
+                "text": "Konsep-konsep penting dalam My Idle Plants aplikasi penghasian uang.",
+                "total": 36,
+                "percentage": 0.1
+              },
+              {
+                "text": "Pertumbuhan Pembayaran Digital Melalui QRIS Di Indonesia",
+                "total": 32,
+                "percentage": 0.09
+              },
+              {
+                "text": "Komitmen bank dan inovasi teknologi dalam industri perbankan.",
+                "total": 28,
+                "percentage": 0.07
+              },
+              {
+                "text": "Inklusi Keuangan Digital Berbasis Bank Syariah di Indonesia",
+                "total": 28,
+                "percentage": 0.07
+              },
+              {
+                "text": "Kolaborasi Antara Via dan Kolektibel dalam Meluncurkan Koleksi NFT.",
+                "total": 23,
+                "percentage": 0.06
+              },
+              {
+                "text": "Restoran Italia dan Promosi Indomaret selama Ramadhan.",
+                "total": 16,
+                "percentage": 0.04
+              }
+            ]
+          },
+          "2022-04-06": {
+            "online": 428,
+            "printed": 36,
+            "topics": [
+              {
+                "text": "Literasi Digital dan Ekonomi Digital di Indonesia.",
+                "total": 101,
+                "percentage": 0.22
+              },
+              {
+                "text": "Implementasi Peraturan Perpajakan Harmonisasi di Indonesia.",
+                "total": 88,
+                "percentage": 0.19
+              },
+              {
+                "text": "Program-program perbankan terkait Ramadhan dan Idul Fitri.",
+                "total": 84,
+                "percentage": 0.18
+              },
+              {
+                "text": "Kolaborasi OVO dan Bareksa dalam Edukasi Investasi.",
+                "total": 43,
+                "percentage": 0.09
+              },
+              {
+                "text": "Penghargaan bagi PT Jasa Raharja atas inovasi digital untuk bisnis berkelanjutan.",
+                "total": 36,
+                "percentage": 0.08
+              },
+              {
+                "text": "Pinjaman Mikro dan Kritik dalam Industri Keuangan.",
+                "total": 34,
+                "percentage": 0.07
+              },
+              {
+                "text": "Klasifikasi Tabungan di Bank Mandiri.",
+                "total": 28,
+                "percentage": 0.06
+              },
+              {
+                "text": "Metode pembayaran parkir non-tunai di Kota Pematangsiantar.",
+                "total": 18,
+                "percentage": 0.04
+              },
+              {
+                "text": "Kolaborasi antara perusahaan telekomunikasi, bank, dan perusahaan integrasi uang elektronik dalam meluncurkan produk-produk baru.",
+                "total": 20,
+                "percentage": 0.04
+              },
+              {
+                "text": "E-Commerce dan Belanja Pemerintah",
+                "total": 12,
+                "percentage": 0.03
+              }
+            ]
+          },
+          "2022-04-07": {
+            "online": 454,
+            "printed": 32,
+            "topics": [
+              {
+                "text": "Layanan Penukaran Di Seluruh Lampung oleh BI dan Perbankan.",
+                "total": 77,
+                "percentage": 0.16
+              },
+              {
+                "text": "Penandatanganan perjanjian kerja sama antara Bank Papua dan Kementerian PUPR untuk penyaluran Bantuan Stimulan Perumahan Swadaya (BSPS) di Jayapura.",
+                "total": 63,
+                "percentage": 0.13
+              },
+              {
+                "text": "Digitaliterasi dan Adopsi Sarana Digital dalam Keuangan dan Komunikasi.",
+                "total": 62,
+                "percentage": 0.13
+              },
+              {
+                "text": "Pengelolaan Zakat dan Potensi Ekonomi Umat.",
+                "total": 59,
+                "percentage": 0.12
+              },
+              {
+                "text": "Prestasi PT Bank Negara Indonesia (BNI) dalam Infobank Digital Brand Award 2022.",
+                "total": 55,
+                "percentage": 0.11
+              },
+              {
+                "text": "Kolaborasi antara Telkomsel, Bank Mandiri, dan MCAS Group dalam memperkenalkan produk-produk digital dengan desain edisi karakter Bumilangit.",
+                "total": 48,
+                "percentage": 0.1
+              },
+              {
+                "text": "Promosi dan Penawaran Selama Ramadhan 2022 oleh Berbagai Perusahaan.",
+                "total": 38,
+                "percentage": 0.08
+              },
+              {
+                "text": "Investasi Aman dalam Keuangan dan Perbankan.",
+                "total": 32,
+                "percentage": 0.07
+              },
+              {
+                "text": "Regulasi Pajak terhadap Industri Fintech di Indonesia.",
+                "total": 32,
+                "percentage": 0.07
+              },
+              {
+                "text": "Penggunaan Super App di Asia Tenggara selama Pandemi COVID-19.",
+                "total": 20,
+                "percentage": 0.04
+              }
+            ]
+          }
+        },
+        "sentiment": {
+          "negative": {
+            "total": 141,
+            "percentage": 0.06,
+            "topic_examples": [
+              "Gangguan Layanan M-Banking BCA",
+              "Dampak Kekejaman Terhadap Korban Wanita",
+              "Pinjaman Mikro dan Kritik dalam Industri Keuangan",
+              "Pajak Penghasilan Atas Bunga Pinjaman di Indonesia"
+            ]
+          },
+          "neutral": {
+            "total": 883,
+            "percentage": 0.37,
+            "topic_examples": [
+              "Investasi Reksa Dana dan SBN Populer di Kalangan Generasi Milenial di Indonesia",
+              "Digitalisasi dan E-Commerce dalam Perekonomian Indonesia",
+              "Promosi dan Penjualan Online selama Bulan Puasa",
+              "Penyediaan Uang Tunai oleh Bank Indonesia untuk Bulan Suci Ramadhan dan Idulfitri",
+              "Produk Digital dan Tradisi Selama Bulan Ramadhan",
+              "Restoran Italia dan Promosi Indomaret selama Ramadhan",
+              "Launching New Honda Genio di Pekanbaru",
+              "Biaya transfer dan produk perbankan",
+              "Investasi Digital dan Upaya Pemasaran Bibit di Antara Generasi Milenial Di Seluruh Indonesia",
+              "Generasi Produk dan Layanan Bank Indonesia",
+              "Penggunaan Super App di Asia Tenggara selama Pandemi COVID-19",
+              "Promosi dan Penawaran Selama Ramadhan 2022 oleh Berbagai Perusahaan",
+              "Seorang tokoh yang ahli di bidang teknologi informasi, Rationald Anggara Soerjanto, datang ke Gedung Bareskrim Polri sebagai saksi ahli dalam kasus fintech yang sedang marak",
+              "Program Unggulan Brittamval Fahme Amber oleh PT Bank BRI (Persero) Tbk dan PT Bank BRI Syariah Tbk",
+              "Regulasi Pajak terhadap Industri Fintech di Indonesia",
+              "Kolaborasi dan Kemitraan dalam Industri Bank Digital di Indonesia",
+              "E-Commerce dan Belanja Pemerintah",
+              "Layanan Penukaran Di Seluruh Lampung oleh BI dan Perbankan",
+              "Kolaborasi antara Telkomsel, Bank Mandiri, dan MCAS Group dalam memperkenalkan produk-produk digital dengan desain edisi karakter Bumilangit",
+              "Promosi Produk Domestik dan Mendukung Usaha Kecil dan Menengah di Indonesia",
+              "Usaha Mikro Kecil dan Menengah serta Koperasi di Pasar Domestik",
+              "Klasifikasi Tabungan di Bank Mandiri",
+              "Kolaborasi antara Apex Legends Mobile dan Streamer/YouTuber game di Indonesia",
+              "Pemanfaatan teknologi digital dalam ekonomi lokal",
+              "Pengelolaan Zakat dan Potensi Ekonomi Umat",
+              "Penandatanganan perjanjian kerja sama antara Bank Papua dan Kementerian PUPR untuk penyaluran Bantuan Stimulan Perumahan Swadaya (BSPS) di Jayapura",
+              "Metode pembayaran parkir non-tunai di Kota Pematangsiantar",
+              "Kolaborasi antara PT Bank Central Asia Tbk (BCA) dan PT Panca Budi Niaga (PBN) untuk menyalurkan KUR di berbagai sektor usaha",
+              "Kolaborasi OVO dan Bareksa dalam Edukasi Investasi",
+              "Pembayaran Melalui Quick Respon Kode Standar Indonesia (QRIS)",
+              "Program promosi oleh bank-bank di Indonesia",
+              "Konsep-konsep penting dalam My Idle Plants aplikasi penghasian uang",
+              "Integrasi Produk Dalam Negari dalam Rantai Pasokan Pemerintah",
+              "Promosi Zakat dan Dukungan Asnaf dalam Kampanye Ramadhan oleh PPZ-MAIWP",
+              "Kolaborasi Antara Via dan Kolektibel dalam Meluncurkan Koleksi NFT",
+              "Promosi spesial hotel di Bandung",
+              "Pentingnya Keamanan Data dalam Teknologi",
+              "Kolaborasi antara perusahaan telekomunikasi, bank, dan perusahaan integrasi uang elektronik dalam meluncurkan produk-produk baru",
+              "Sistem Pembayaran Non Tunai di Kabupaten Bangga Barat",
+              "Tips Menabung dalam Bahasa Indonesia",
+              "Implementasi Peraturan Perpajakan Harmonisasi di Indonesia",
+              "Program-program perbankan terkait Ramadhan dan Idul Fitri"
+            ]
+          },
+          "positive": {
+            "total": 1337,
+            "percentage": 0.57,
+            "topic_examples": [
+              "Produk pangan Indonesia diperingkat sebagai yang tertinggi kedua secara global",
+              "Prestasi PT Bank Negara Indonesia (BNI) dalam Infobank Digital Brand Award 2022",
+              "Investasi Aman dalam Keuangan dan Perbankan",
+              "Penghargaan bagi PT Jasa Raharja atas inovasi digital untuk bisnis berkelanjutan",
+              "Produk Makanan Halal di Indonesia",
+              "Fashion Ramah Lingkungan Lebih Terjangkau",
+              "Pertumbuhan Pembayaran Digital Melalui QRIS Di Indonesia",
+              "Inklusi Keuangan Digital Berbasis Bank Syariah di Indonesia",
+              "Komitmen bank dan inovasi teknologi dalam industri perbankan",
+              "Kampanye #NabungKebaikan oleh PermataBank",
+              "Digitalisasi pembayaran nontunai di Indonesia",
+              "E-Wallet dan Transformasi Digital di Indonesia",
+              "Literasi Digital dan Ekonomi Digital di Indonesia"
+            ]
+          }
+        },
+        "top_10_online_influencer": {
+          "Royke Tumilaar": 76,
+          "Sandiaga Salahuddin Uno": 39,
+          "Hera F Haryn": 36,
+          "Aida S Budiman": 36,
+          "Amos Sampetoding": 34,
+          "Muhammad Aqil Irham": 30,
+          "Sri Mulyani Indrawati": 27,
+          "Ririn Ekawati": 23,
+          "Abraham Theofilus": 23,
+          "Rois Syuriah": 22
+        },
+        "top_10_printed_influencer": {
+          "Aida S Budiman": 8,
+          "Erwin Haryono": 6,
+          "Royke Tumilaar": 4,
+          "Trisno Nugroho": 3,
+          "Abdullah Azwar Anas": 3,
+          "Harumi Supit": 3,
+          "Wibawa Prasetyawan": 2,
+          "Kustini Sri Purnomo": 2,
+          "Bonarsius Sipayung": 2,
+          "Arsani Maidi": 2
+        }
+      },
+      "elapsed_time": 1710.9727745056152
+    }
