@@ -145,8 +145,8 @@ def generate(request: Dict[Any, Any]):
     slide_index = 3
     chart_index_to_replace = 1
     tambah_new_chart_data = ChartData()
-    x = sentiment
-    y =  sentiment['negative']['percentage'],sentiment['neutral']['percentage'],sentiment['positive']['percentage']
+    x = 'positive','neutral','negative'
+    y =  sentiment['positive']['percentage'],sentiment['neutral']['percentage'],sentiment['negative']['percentage']
     tambah_new_chart_data.categories = x
     tambah_new_chart_data.add_series('',y )
     for i, slide in enumerate(prs.slides):
@@ -220,7 +220,7 @@ def generate(request: Dict[Any, Any]):
         lab = []
     replace = TextReplacer(SAVE_F, slides='', tables=False, charts=False, textframes=True)
     replace.replace_text([
-    ('1 – 7 April 2022', result['earliest_date']+"-"+ result['latest_date']),
+    ('1 – 7 April 2022', result['earliest_date']+" Sampai "+ result['latest_date']),
     ('2.251', str(result['total_online_news'])),
     ('761', str(result['total_online_media'])),
     ('135', str(result['total_printed_news'])),
